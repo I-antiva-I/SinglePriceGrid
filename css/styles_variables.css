@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400;700&display=swap');
+
+
+:root
+{
+    --color-cyan:               hsl(179, 62%, 43%);
+    --color-bright-yellow:      hsl(71, 73%, 54%);
+    --color-light-gray:         hsl(204, 43%, 93%);
+    --color-grayish-blue:       hsl(218, 22%, 67%);
+
+    --color-white:              #FFFFFF;
+    --color-light-cyan:         hsl(179, 47%, 52%);
+
+    --font-size:        16px;
+
+    --width-mobile:     350px;
+    --width-desktop:    640px;
+}
+
